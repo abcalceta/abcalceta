@@ -5,7 +5,7 @@ I'm an enthusiastic fresh grad with lots of Googling skills! :relaxed: (That's h
 * ### I just graduated recently, and I'm looking for work! :mortar_board: 
   * I graduated this 2021 from **UP Diliman**! :sunflower:
   * My skills include:
-    * Game Dev with **Godot Game Engine** :video_game:
+    * [Game Dev](https://frances.itch.io/) with **Godot Game Engine** :video_game:
     * Web Dev with **Ruby on Rails** :computer:
     * I also know **HTML** and **CSS** (but I'm still in the process of learning Javascript) :sparkling_heart:
     * I actually graduated from BLIS so I can do some **library work** as well, if needed. :books:
