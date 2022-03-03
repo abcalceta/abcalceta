@@ -6,4 +6,4 @@ I'm an enthusiastic fresh grad with lots of Googling skills! :relaxed: (That's h
     * I like drawing! I'm still learning, though. :crayon:
     * I make games for game jams! 
     * I can do 3D stuff with Blender! Modelling, rigging, animation... but I'm no pro! 
-    * I can't sing, but I write songs, play the ukulele, and I know how to use LMMS to produce music! :musical_note: 
+    * I can't sing, but I like making music! :musical_note: 
