@@ -1,5 +1,5 @@
 # Hello! It's Frances! :sparkles: :sparkles: :sparkles:
-I'm an enthusiastic fresh grad with lots of Googling skills! :relaxed: (That's how I was able to teach myself a lot of my hobbies!)
+I'm just an ordinary girl that Googles what I don't know! :relaxed: (That's how I was able to teach myself a lot of my hobbies!)
 ## Here are some fun facts about me:
 * ### My name is Frances Calceta, and I love learning things!
   * My hobbies:
